@@ -17,7 +17,7 @@ Given a 2D grid of non-negative integers, find the maximum number of coins that 
 We use **Dynamic Programming** to store the maximum coins that can be collected up to each cell.
 
 ### Transition Formula:
-
+dp[i][j] = max(dp[i-1][j], dp[i][j-1]) + grid[i][j]
 
 ---
 
@@ -42,7 +42,7 @@ vector<vector<int>> grid = {
 };
 ---
 
-##💡 Sample Output
+💡 Sample Output
 [0]  3   1   1
  2   0   0   4
  1   5   3   1
@@ -50,8 +50,7 @@ vector<vector<int>> grid = {
 Collecting coins...
 Maximum coins collected: 12
 ---
-
-## 👨‍💻 Author
+👨‍💻 Author
 Lokesh Jejappagari
 📧 jlokesh2002@gmail.com
 
