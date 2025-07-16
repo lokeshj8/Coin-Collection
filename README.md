@@ -41,7 +41,8 @@ vector<vector<int>> grid = {
     {1, 5, 3, 1}
 };
 ---
-## 💡 Sample Output
+
+##💡 Sample Output
 [0]  3   1   1
  2   0   0   4
  1   5   3   1
@@ -49,6 +50,7 @@ vector<vector<int>> grid = {
 Collecting coins...
 Maximum coins collected: 12
 ---
+
 ## 👨‍💻 Author
 Lokesh Jejappagari
 📧 jlokesh2002@gmail.com
