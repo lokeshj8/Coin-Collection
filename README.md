@@ -1,4 +1,4 @@
-# 🪙 Coin Collection
+## 🪙 Coin Collection
 
 A C++ project that solves the classic **Coin Collection Problem** using **Dynamic Programming** and lays the foundation for simple **text-based animation**.  
 
@@ -40,14 +40,16 @@ vector<vector<int>> grid = {
     {2, 0, 0, 4},
     {1, 5, 3, 1}
 };
-
+---
+## 💡 Sample Output
 [0]  3   1   1
  2   0   0   4
  1   5   3   1
 
 Collecting coins...
 Maximum coins collected: 12
-👨‍💻 Author
+---
+## 👨‍💻 Author
 Lokesh Jejappagari
 📧 jlokesh2002@gmail.com
 
