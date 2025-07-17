@@ -50,6 +50,8 @@ vector<vector<int>> grid = {
 Collecting coins...
 Maximum coins collected: 12
 ---
+
+
 👨‍💻 Author
 Lokesh Jejappagari
 📧 jlokesh2002@gmail.com
