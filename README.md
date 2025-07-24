@@ -3,7 +3,6 @@
 A C++ project that solves the classic **Coin Collection Problem** using **Dynamic Programming** and lays the foundation for simple **text-based animation**.  
 
 You start at the top-left corner of a grid and aim to collect the **maximum coins** by reaching the bottom-right corner. You can only move **right** or **down**.
-
 ---
 
 ## 🎯 Problem Statement
