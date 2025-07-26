@@ -4,7 +4,6 @@ A C++ project that solves the classic **Coin Collection Problem** using **Dynami
 
 You start at the top-left corner of a grid and aim to collect the **maximum coins** by reaching the bottom-right corner. You can only move **right** or **down**.
 ---
-
 ## 🎯 Problem Statement
 
 Given a 2D grid of non-negative integers, find the maximum number of coins that can be collected while moving from `(0,0)` to `(n-1,m-1)` using only **right** and **down** directions.
